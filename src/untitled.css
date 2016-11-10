@@ -1,4 +1,4 @@
-/* CSS Document */
+﻿/* CSS Document */
 body{margin:0;padding:0;font-family:"微软雅黑","黑体";font-size:12px;}
 *{margin:0;padding:0}
 ol,ul,li{list-style:none;}
@@ -17,7 +17,7 @@ a:hover{text-decoration:none;}
 .db-5 a{color:#646464;}
 .db-5 a:hover{color:#e41819;}
 .db-6{width:18px;height:18px;float:left;}
-.db-6 a{width:18px;height:18px;display:block;background-image:url(../images/xinlang-1.jpg);}
+.db-6 a{width:18px;height:19px;display:block;background-image:url(../images/xinlang-1.jpg);}
 .db-6 a:hover{background-image:url(../images/xinlang-2.jpg);}
 .db-7{width:320px;height:34px;line-height:34px;float:left;margin-left:335px;color:#646464;}
 .db-7 a{color:#646464;}
